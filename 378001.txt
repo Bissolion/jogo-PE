@@ -1,0 +1,6 @@
+
+Voce limpa a sua espada ensanguentada no colchao. O sangue verde deixa uma mancha pastosa na
+palha. Apos essa batalha, voce se sente mais confiante consigo mesmo e determinado
+em continuar sua jornada, ENERGIA +2.$
+Volte para 42 para continuar.
+Digite 42 
